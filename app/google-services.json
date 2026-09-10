@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150873313428",
+    "project_id": "tp01-13e95",
+    "storage_bucket": "tp01-13e95.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150873313428:android:23cb37f19a62686165a481",
+        "android_client_info": {
+          "package_name": "com.ibanez.tp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Jolm2U4zO8qW_pveh4VWJF_ftOopEYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
